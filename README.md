@@ -18,7 +18,7 @@
 
 - 😃 Pronouns - Him/He
 
-- 📧 How to reach me - **social.suryakantthakur@gmail.com**
+- 📧 How to reach me - **suryakantthakur825@gmail.com**
 
 
 
