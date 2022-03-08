@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning - JavaScript, ReactJS and DSA.
 
-- 👯 I’m looking to collaborate on - Frontend Development.
+- 👯 I’m looking to collaborate on - Full Stack Web Development.
 
 - 💬 Ask me about - Anything you want. 
 
