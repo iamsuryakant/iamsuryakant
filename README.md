@@ -16,7 +16,7 @@
 - ⚡ Fun fact - I usually like to code and listen to soothing music simultaneously 🎧💻  -->
 - 💻 Help me in - Competitive Programming🐧
 
-- 😃 Pronouns - Him/He
+- 😃 Pronouns - He/Him
 
 - 📧 How to reach me - **suryakantthakur825@gmail.com**
 
