@@ -11,7 +11,7 @@
 
 - 💬 Ask me about - Anything you want. 
 
-- 🥅 2021 Goal - Try to enhance my skills as much as I can.
+- 🥅 2022 Goal - Try to enhance my skills as much as I can.
 <!-- 
 - ⚡ Fun fact - I usually like to code and listen to soothing music simultaneously 🎧💻  -->
 - 💻 Help me in - Competitive Programming🐧
