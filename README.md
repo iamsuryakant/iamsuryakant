@@ -1,4 +1,4 @@
-# Hi, I am Suryakant Thakur an Open Source Enthusiast and a Frontend Developer.
+# Hi, I am Suryakant Thakur an Open Source Enthusiast and a Full Stack Web Developer.
 
 <h3 align="left">
  About Me ! </h3>
