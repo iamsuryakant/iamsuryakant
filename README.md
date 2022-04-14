@@ -1,5 +1,7 @@
 # Hi, I am Suryakant Thakur an Open Source Enthusiast and a Full Stack Web Developer.
 
+![](https://komarev.com/ghpvc/?username=iamsuryakant&label=PROFILE+VIEWS)
+
 <h3 align="left">
  About Me ! </h3>
 
