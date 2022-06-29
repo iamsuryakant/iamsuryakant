@@ -5,7 +5,7 @@
 <h3 align="left">
  About Me ! </h3>
 
-- 🔭 I’m currently working on - Google Search Clone.
+- 🔭 I’m currently working on - Data Structures and Algorithms.
 
 - 🌱 I’m currently learning - JavaScript, ReactJS and DSA.
 
