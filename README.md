@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://iamsuryakant.github.io/](https://iamsuryakant.github.io/)
 
-- 📝 I regularly write articles on [https://iamsuryakant.github.io/blog](https://iamsuryakant.github.io/blog)
+<!-- - 📝 I regularly write articles on [https://iamsuryakant.github.io/blog](https://iamsuryakant.github.io/blog) -->
 
 - 💬 Ask me about **Anything you want.**
 
