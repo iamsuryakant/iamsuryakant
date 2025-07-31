@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Competitive Programming**
 
-- 👨‍💻 All of my projects are available at [https://iamsuryakant.github.io/](https://iamsuryakant.github.io/)
+- 👨‍💻 All of my projects are available at [https://iamsuryakant.vercel.app/](https://iamsuryakant.vercel.app/)
 
 <!-- - 📝 I regularly write articles on [https://iamsuryakant.github.io/blog](https://iamsuryakant.github.io/blog) -->
 
