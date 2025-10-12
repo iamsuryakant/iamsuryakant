@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamsuryakant_" target="blank"><img src="https://img.shields.io/twitter/follow/iamsuryakant_?logo=twitter&style=for-the-badge" alt="iamsuryakant_" /></a> </p>
 
-- 🔭 I’m currently working as a **Full Stack Developer @VOIS**
+- 🔭 I’m currently working as a **Full Stack Developer [@VOIS](https://www.vodafone.com/careers/professional-career-areas/shared-services)**
 
 - 👯 I’m looking to collaborate on **Full Stack Development.**
 
