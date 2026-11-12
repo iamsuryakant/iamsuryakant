@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 500" width="100%" height="100%">
+  <defs>
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    </style>
+  </defs>
+
+  <!-- Terminal Window Background -->
+  <rect x="0" y="0" width="880" height="500" rx="12" fill="#161b22" stroke="#30363d" stroke-width="1.5" />
+
+  <!-- Terminal Window Titlebar -->
+  <rect x="0" y="0" width="880" height="38" rx="12" fill="#21262d" />
+  <rect x="0" y="26" width="880" height="12" fill="#21262d" />
+  <line x1="0" y1="38" x2="880" y2="38" stroke="#30363d" stroke-width="1" />
+
+  <!-- macOS Control Buttons -->
+  <circle cx="20" cy="19" r="6" fill="#ff5f56" stroke="#e0443e" stroke-width="0.5" />
+  <circle cx="38" cy="19" r="6" fill="#ffbd2e" stroke="#dea123" stroke-width="0.5" />
+  <circle cx="56" cy="19" r="6" fill="#27c93f" stroke="#1aab29" stroke-width="0.5" />
+
+  <!-- Title -->
+  <text x="440" y="24" text-anchor="middle" fill="#8b949e" font-size="12" class="mono">suryakant@workstation ~ neofetch</text>
+
+  <text x="36" y="72.0" fill="#58a6ff" font-size="13" class="mono" xml:space="preserve">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;@@@@@@@@&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+  <text x="36" y="90.5" fill="#58a6ff" font-size="13" class="mono" xml:space="preserve">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;@@=.&#160;&#160;&#160;&#160;.:--#@@@@@@@&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+  <text x="36" y="109.0" fill="#58a6ff" font-size="13" class="mono" xml:space="preserve">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;@@@=&#160;&#160;..........&#160;&#160;*@@@@@@@&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+  <text x="36" y="127.5" fill="#58a6ff" font-size="13" class="mono" xml:space="preserve">&#160;&#160;&#160;&#160;&#160;&#160;@@@#.&#160;..&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;...%@@@@@@@@&#160;&#160;&#160;&#160;&#160;&#160;</text>
+  <text x="36" y="146.0" fill="#58a6ff" font-size="13" class="mono" xml:space="preserve">&#160;&#160;&#160;&#160;@@@@*&#160;&#160;&#160;&#160;...&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;=@@@@@@@@@@&#160;&#160;&#160;&#160;</text>
+  <text x="36" y="164.5" fill="#58a6ff" font-size="13" class="mono" xml:space="preserve">&#160;&#160;&#160;@@@@%-+.-#***#########*.&#160;+@@@@@@@@@@&#160;&#160;&#160;</text>
+  <text x="36" y="183.0" fill="#58a6ff" font-size="13" class="mono" xml:space="preserve">&#160;&#160;@@@@@@@#-+=++***###=-:-+*.*@@@@@@@@@@@&#160;&#160;</text>
+  <text x="36" y="201.5" fill="#58a6ff" font-size="13" class="mono" xml:space="preserve">&#160;@@@@@@@@#+****************=#@@@@@@@@@@@@&#160;</text>
+  <text x="36" y="220.0" fill="#58a6ff" font-size="13" class="mono" xml:space="preserve">&#160;@@@@@@%*-+**=&#160;-*****=.-+**+%@@@@%@@%@@@@&#160;</text>
+  <text x="36" y="238.5" fill="#58a6ff" font-size="13" class="mono" xml:space="preserve">@@@@@@@%+:+*####******+*#*+-+#@@%%#%#%%@@@</text>
+  <text x="36" y="257.0" fill="#58a6ff" font-size="13" class="mono" xml:space="preserve">@@@@@@@@#:=***##**#*####**=-*%@@%#####%@@@</text>
+  <text x="36" y="275.5" fill="#58a6ff" font-size="13" class="mono" xml:space="preserve">@@@@@@@@%+.=**=---==+****=.*%@%#%#*###%@@@</text>
+  <text x="36" y="294.0" fill="#58a6ff" font-size="13" class="mono" xml:space="preserve">@@@@@@@@@@=&#160;:+-.-+++=:++:.#@@@@@%##**#@@@@</text>
+  <text x="36" y="312.5" fill="#58a6ff" font-size="13" class="mono" xml:space="preserve">&#160;@@@@@@@@@@*..=*=====+..-%@@@@@@@@#*#@@@@&#160;</text>
+  <text x="36" y="331.0" fill="#58a6ff" font-size="13" class="mono" xml:space="preserve">&#160;&#160;@@@@@@@@@@@+:&#160;......-#%%@@@@@@@%**#@@@&#160;&#160;</text>
+  <text x="36" y="349.5" fill="#58a6ff" font-size="13" class="mono" xml:space="preserve">&#160;&#160;@@@@@@@@%**++***+**#++=+=+*#%@%####@@@&#160;&#160;</text>
+  <text x="36" y="368.0" fill="#58a6ff" font-size="13" class="mono" xml:space="preserve">&#160;&#160;&#160;&#160;@@@@@%+++++#%***%#++++++++=====-*@&#160;&#160;&#160;&#160;</text>
+  <text x="36" y="386.5" fill="#58a6ff" font-size="13" class="mono" xml:space="preserve">&#160;&#160;&#160;&#160;&#160;@@@@#+++++*%%%%%*++=++=-=======%&#160;&#160;&#160;&#160;&#160;</text>
+  <text x="36" y="405.0" fill="#58a6ff" font-size="13" class="mono" xml:space="preserve">&#160;&#160;&#160;&#160;&#160;&#160;&#160;@%++++=++#%%%%++=+++#@@%#*#%&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+  <text x="36" y="423.5" fill="#58a6ff" font-size="13" class="mono" xml:space="preserve">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;++++==*%%%%+==++=#@@@@&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+  <text x="36" y="442.0" fill="#58a6ff" font-size="13" class="mono" xml:space="preserve">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;==+%@%%==++==#&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+  <text x="385" y="72.0" fill="#7ee787" font-weight="bold" font-size="14" class="mono">suryakant@github</text>
+  <text x="385" y="90.5" fill="#8b949e" font-size="13" class="mono">----------------</text>
+  <text x="385" y="109.0" font-size="13" class="mono"><tspan fill="#79c0ff" font-weight="600">OS:</tspan> <tspan fill="#e6edf3">Java 21 LTS / Spring Boot 3</tspan></text>
+  <text x="385" y="127.5" font-size="13" class="mono"><tspan fill="#79c0ff" font-weight="600">Host:</tspan> <tspan fill="#e6edf3">Accenture – OP Financial Group</tspan></text>
+  <text x="385" y="146.0" font-size="13" class="mono"><tspan fill="#79c0ff" font-weight="600">Role:</tspan> <tspan fill="#e6edf3">Java Full Stack Developer</tspan></text>
+  <text x="385" y="164.5" font-size="13" class="mono"><tspan fill="#79c0ff" font-weight="600">Kernel:</tspan> <tspan fill="#e6edf3">Distributed Systems & Microservices</tspan></text>
+  <text x="385" y="183.0" font-size="13" class="mono"><tspan fill="#79c0ff" font-weight="600">Uptime:</tspan> <tspan fill="#e6edf3">4+ Years Enterprise Engineering</tspan></text>
+  <text x="385" y="201.5" font-size="13" class="mono"><tspan fill="#79c0ff" font-weight="600">Ex-Station:</tspan> <tspan fill="#e6edf3">Vodafone Intelligent Solutions (VOIS)</tspan></text>
+  <text x="385" y="220.0" font-size="13" class="mono"><tspan fill="#79c0ff" font-weight="600">Frontend:</tspan> <tspan fill="#e6edf3">React 19, Next.js 15, TypeScript</tspan></text>
+  <text x="385" y="238.5" font-size="13" class="mono"><tspan fill="#79c0ff" font-weight="600">Cloud:</tspan> <tspan fill="#e6edf3">AWS (Lambda, S3, API Gateway)</tspan></text>
+  <text x="385" y="257.0" font-size="13" class="mono"><tspan fill="#79c0ff" font-weight="600">Data:</tspan> <tspan fill="#e6edf3">PostgreSQL, Redis, Apache Kafka</tspan></text>
+  <text x="385" y="275.5" font-size="13" class="mono"><tspan fill="#79c0ff" font-weight="600">Scale:</tspan> <tspan fill="#e6edf3">100K+ tx/day @ AWS Serverless</tspan></text>
+  <text x="385" y="294.0" font-size="13" class="mono"><tspan fill="#79c0ff" font-weight="600">Impact:</tspan> <tspan fill="#e6edf3">30% faster load • 80% QA reduction</tspan></text>
+  <text x="385" y="312.5" font-size="13" class="mono"><tspan fill="#79c0ff" font-weight="600">Alma Mater:</tspan> <tspan fill="#e6edf3">B.Tech in IT (CGPA: 9.05 / 10)</tspan></text>
+  <text x="385" y="331.0" font-size="13" class="mono"><tspan fill="#79c0ff" font-weight="600">Awards:</tspan> <tspan fill="#e6edf3">Client Value Creation • VOIS Star</tspan></text>
+  <text x="385" y="349.5" font-size="13" class="mono"><tspan fill="#79c0ff" font-weight="600">Location:</tspan> <tspan fill="#e6edf3">Gurugram, India 🇮🇳</tspan></text>
+  <rect x="385" y="358.0" width="20" height="14" rx="3" fill="#21262d" /><rect x="409" y="358.0" width="20" height="14" rx="3" fill="#ff7b72" /><rect x="433" y="358.0" width="20" height="14" rx="3" fill="#7ee787" /><rect x="457" y="358.0" width="20" height="14" rx="3" fill="#f2cc60" /><rect x="481" y="358.0" width="20" height="14" rx="3" fill="#79c0ff" /><rect x="505" y="358.0" width="20" height="14" rx="3" fill="#d2a8ff" /><rect x="529" y="358.0" width="20" height="14" rx="3" fill="#56d4dd" /><rect x="553" y="358.0" width="20" height="14" rx="3" fill="#f0f6fc" />
+</svg>
